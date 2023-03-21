@@ -1,0 +1,7 @@
+Jenkins :
+
+new item creation
+maven project creation
+pipeline creation
+build test deploy
+slave node creation

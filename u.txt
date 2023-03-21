@@ -1,0 +1,11 @@
+slave node:
+
+security configuration-> ssh port , port set as random mode
+disable docker realted pligins
+
+manage jenkins->manage nodes and clouds->create node->paste the path of the slave folder created in jenkins folder->save
+
+If its not appear naah then,
+
+
+slaves->cmd->java -jar agent.jar -jnlpUrl http://localhost:8181/manage/computer/slave%201/jenkins-agent.jnlp -secret 155bde2e3171918b7aefe3e3d50df979feecfc96e0d43c83bff89417a20ac9af -workDir "C:\Jenkins\slave 1\slave1.1"->restart the server with the matche port number(8181)

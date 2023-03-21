@@ -1,0 +1,32 @@
+install java war extension feature(https://download.oracle.com/java/17/latest/jdk-17_windows-x64_bin.msi)
+install JDK version 11,17,1.8 with user name and password acceptance
+jenkins war file :https://get.jenkins.io/war-stable/2.387.1/jenkins.war
+then run in command prompt(jenkins folder) with java -jar jenkins.war --httpPort=8181/ java -Dhudson.plugins.git.GitSCM.ALLOW_LOCAL_CHECKOUT=true -jar jenkins.war --httpPort=9000
+
+ this command
+then go with localhost 8181 in chrome
+then log in with user name and password as : admin,admin
+Then jenkins page will open
+
+
+https://www.atlassian.com/software/bamboo
+https://github.com/kolaparthisrini/Jenkinsskillwisebeginer
+
+
+Tomcat: http://localhost:8080/
+pwd: admin,uname:admin
+
+manage jenkins-tomcat deployement-app name- path-cmd-recognition of each folder(set JAVAHOME="path"-starttup.bat-enter-setted up tomcat server
+
+set PATH="C:\Jenkins\jdk-17"
+build
+test
+deploy 
+
+
+
+
+
+pom:
+git add *
+git commit -m "commit1"

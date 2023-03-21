@@ -1,0 +1,27 @@
+pipeline
+building pipeline using plugin:
+
+creat dummy view of all these: and paste the code URL
+UAT
+pre prod
+prod
+
+with dummy code
+
+
+
+
+groovy :(domain specific language)
+
+
+declarative app:
+
+stages--->stage--->steps
+
+https://github.com/kolaparthisrini/Jenkinsskillwisebeginer/blob/main/declarative-syntax-samples.md.txt
+
+
+https://www.jenkins.io/doc/book/pipeline/running-pipelines/
+
+
+https://github.com/kolaparthisrini/JenkinsPipelines
